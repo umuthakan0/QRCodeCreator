@@ -1,0 +1,19 @@
+C:\Users\Umut Hakan Demir\source\repos\QR Code Creator\QR Code Creator\bin\Debug\net6.0-windows\QR Code Creator.exe
+C:\Users\Umut Hakan Demir\source\repos\QR Code Creator\QR Code Creator\bin\Debug\net6.0-windows\QR Code Creator.deps.json
+C:\Users\Umut Hakan Demir\source\repos\QR Code Creator\QR Code Creator\bin\Debug\net6.0-windows\QR Code Creator.runtimeconfig.json
+C:\Users\Umut Hakan Demir\source\repos\QR Code Creator\QR Code Creator\bin\Debug\net6.0-windows\QR Code Creator.dll
+C:\Users\Umut Hakan Demir\source\repos\QR Code Creator\QR Code Creator\bin\Debug\net6.0-windows\QR Code Creator.pdb
+C:\Users\Umut Hakan Demir\source\repos\QR Code Creator\QR Code Creator\bin\Debug\net6.0-windows\MessagingToolkit.QRCode.dll
+C:\Users\Umut Hakan Demir\source\repos\QR Code Creator\QR Code Creator\obj\Debug\net6.0-windows\QR Code Creator.csproj.AssemblyReference.cache
+C:\Users\Umut Hakan Demir\source\repos\QR Code Creator\QR Code Creator\obj\Debug\net6.0-windows\QR_Code_Creator.Form1.resources
+C:\Users\Umut Hakan Demir\source\repos\QR Code Creator\QR Code Creator\obj\Debug\net6.0-windows\QR Code Creator.csproj.GenerateResource.cache
+C:\Users\Umut Hakan Demir\source\repos\QR Code Creator\QR Code Creator\obj\Debug\net6.0-windows\QR Code Creator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umut Hakan Demir\source\repos\QR Code Creator\QR Code Creator\obj\Debug\net6.0-windows\QR Code Creator.AssemblyInfoInputs.cache
+C:\Users\Umut Hakan Demir\source\repos\QR Code Creator\QR Code Creator\obj\Debug\net6.0-windows\QR Code Creator.AssemblyInfo.cs
+C:\Users\Umut Hakan Demir\source\repos\QR Code Creator\QR Code Creator\obj\Debug\net6.0-windows\QR Code Creator.csproj.CoreCompileInputs.cache
+C:\Users\Umut Hakan Demir\source\repos\QR Code Creator\QR Code Creator\obj\Debug\net6.0-windows\QR Code Creator.csproj.CopyComplete
+C:\Users\Umut Hakan Demir\source\repos\QR Code Creator\QR Code Creator\obj\Debug\net6.0-windows\QR Code Creator.dll
+C:\Users\Umut Hakan Demir\source\repos\QR Code Creator\QR Code Creator\obj\Debug\net6.0-windows\refint\QR Code Creator.dll
+C:\Users\Umut Hakan Demir\source\repos\QR Code Creator\QR Code Creator\obj\Debug\net6.0-windows\QR Code Creator.pdb
+C:\Users\Umut Hakan Demir\source\repos\QR Code Creator\QR Code Creator\obj\Debug\net6.0-windows\QR Code Creator.genruntimeconfig.cache
+C:\Users\Umut Hakan Demir\source\repos\QR Code Creator\QR Code Creator\obj\Debug\net6.0-windows\ref\QR Code Creator.dll
